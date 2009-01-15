@@ -1,4 +1,5 @@
 #!/usr/bin/ruby
+# Karl-Martin Skontorp <kms@skontorp.net>
 
 require 'rss/1.0'
 require 'rss/2.0'
