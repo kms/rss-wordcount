@@ -1,5 +1,6 @@
 #!/usr/bin/ruby
-# Karl-Martin Skontorp <kms@skontorp.net>
+# Copyright (c) Karl-Martin Skontorp <kms@skontorp.net>
+# This is free software; see LICENSE.txt for copying conditions. 
 
 require 'rss/1.0'
 require 'rss/2.0'
