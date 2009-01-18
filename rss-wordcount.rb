@@ -1,6 +1,9 @@
 #!/usr/bin/ruby
-# Copyright (c) Karl-Martin Skontorp <kms@skontorp.net>
-# Licensed under the GNU GPL. For full terms see the file LICENSE.txt
+# rss-wordcount
+# Count the occurrence of words in an RSS feed.
+#
+# (c) Karl-Martin Skontorp <kms@skontorp.net> ~ http://picofarad.org/
+# Licensed under the GNU GPL 2.0 or later.
 
 require 'rss/1.0'
 require 'rss/2.0'
