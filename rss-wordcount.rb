@@ -18,9 +18,9 @@ rss.items.each { |i|
 words = Hash.new
 text.split(/[ .,]/).each { |w|
     if words.has_key?(w)
-	words[w] += 1
+        words[w] += 1
     else 
-	words[w] = 1
+        words[w] = 1
     end
 }
 words.delete("")
